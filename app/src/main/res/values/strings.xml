@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iSharkFox</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">鲨鲨酱</string>
+    <string name="second_fragment_label">QQ 647564826</string>
+    <string name="next">关于</string>
+    <string name="previous">返回</string>
+
+    <string name="hello_first_fragment">黑鲨 鲨鲨酱 机型通用插件</string>
+    <string name="hello_second_fragment">作者QQ 647564826. Arg: %1$s</string>
+</resources>
